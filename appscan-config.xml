@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration thirdParty="true">
+  <Targets>
+    <Target path="bin\App_Code.dll"/>
+    <Target path="bin\App_global.asax.dll"/>
+    <Target path="bin\App_Web_f0b5iu5y.dll"/>
+    <Target path="bin\App_Web_jdtl1t4d.dll"/>
+    <Target path="bin\App_Web_jdvrgpyv.dll"/>
+    <Target path="bin\App_Web_lon5llcg.dll"/>
+    <Target path="bin\App_Web_p1xemfmy.dll"/>
+    <Target path="bin\App_Web_qniqm4kx.dll"/>
+    <Target path="bin\App_Web_usrybwb0.dll"/>
+    <Target path=""/>
+  </Targets>
+</Configuration>
